@@ -1,0 +1,44 @@
+C:\Users\Milvio\Desktop\RentaAcar\obj\Debug\RentaAcar.vbprojAssemblyReference.cache
+C:\Users\Milvio\Desktop\RentaAcar\obj\Debug\RentaAcar.clienteForm.resources
+C:\Users\Milvio\Desktop\RentaAcar\obj\Debug\RentaAcar.completarForm.resources
+C:\Users\Milvio\Desktop\RentaAcar\obj\Debug\RentaAcar.devolverForm.resources
+C:\Users\Milvio\Desktop\RentaAcar\obj\Debug\RentaAcar.loginForm.resources
+C:\Users\Milvio\Desktop\RentaAcar\obj\Debug\RentaAcar.mainForm.resources
+C:\Users\Milvio\Desktop\RentaAcar\obj\Debug\RentaAcar.Resources.resources
+C:\Users\Milvio\Desktop\RentaAcar\obj\Debug\RentaAcar.rentarForm.resources
+C:\Users\Milvio\Desktop\RentaAcar\obj\Debug\RentaAcar.reporteForm.resources
+C:\Users\Milvio\Desktop\RentaAcar\obj\Debug\RentaAcar.sistemaForm.resources
+C:\Users\Milvio\Desktop\RentaAcar\obj\Debug\RentaAcar.usuarioForm.resources
+C:\Users\Milvio\Desktop\RentaAcar\obj\Debug\RentaAcar.vehiculoForm.resources
+C:\Users\Milvio\Desktop\RentaAcar\obj\Debug\RentaAcar.vbproj.GenerateResource.cache
+C:\Users\Milvio\Desktop\RentaAcar\obj\Debug\RentaAcar.vbproj.CoreCompileInputs.cache
+C:\Users\Milvio\Desktop\RentaAcar\bin\Debug\RentaAcar.exe.config
+C:\Users\Milvio\Desktop\RentaAcar\bin\Debug\RentaAcar.exe
+C:\Users\Milvio\Desktop\RentaAcar\bin\Debug\RentaAcar.pdb
+C:\Users\Milvio\Desktop\RentaAcar\bin\Debug\RentaAcar.xml
+C:\Users\Milvio\Desktop\RentaAcar\obj\Debug\RentaAcar.consultaRentados.resources
+C:\Users\Milvio\Desktop\RentaAcar\obj\Debug\RentaAcar.exe
+C:\Users\Milvio\Desktop\RentaAcar\obj\Debug\RentaAcar.xml
+C:\Users\Milvio\Desktop\RentaAcar\obj\Debug\RentaAcar.pdb
+E:\software 2\RentaAcar\bin\Debug\RentaAcar.exe.config
+E:\software 2\RentaAcar\bin\Debug\RentaAcar.exe
+E:\software 2\RentaAcar\bin\Debug\RentaAcar.pdb
+E:\software 2\RentaAcar\bin\Debug\RentaAcar.xml
+E:\software 2\RentaAcar\obj\Debug\RentaAcar.vbproj.AssemblyReference.cache
+E:\software 2\RentaAcar\obj\Debug\RentaAcar.clienteForm.resources
+E:\software 2\RentaAcar\obj\Debug\RentaAcar.completarForm.resources
+E:\software 2\RentaAcar\obj\Debug\RentaAcar.consultaRentados.resources
+E:\software 2\RentaAcar\obj\Debug\RentaAcar.devolverForm.resources
+E:\software 2\RentaAcar\obj\Debug\RentaAcar.loginForm.resources
+E:\software 2\RentaAcar\obj\Debug\RentaAcar.mainForm.resources
+E:\software 2\RentaAcar\obj\Debug\RentaAcar.Resources.resources
+E:\software 2\RentaAcar\obj\Debug\RentaAcar.rentarForm.resources
+E:\software 2\RentaAcar\obj\Debug\RentaAcar.reporteForm.resources
+E:\software 2\RentaAcar\obj\Debug\RentaAcar.sistemaForm.resources
+E:\software 2\RentaAcar\obj\Debug\RentaAcar.usuarioForm.resources
+E:\software 2\RentaAcar\obj\Debug\RentaAcar.vehiculoForm.resources
+E:\software 2\RentaAcar\obj\Debug\RentaAcar.vbproj.GenerateResource.cache
+E:\software 2\RentaAcar\obj\Debug\RentaAcar.vbproj.CoreCompileInputs.cache
+E:\software 2\RentaAcar\obj\Debug\RentaAcar.exe
+E:\software 2\RentaAcar\obj\Debug\RentaAcar.xml
+E:\software 2\RentaAcar\obj\Debug\RentaAcar.pdb
