@@ -13,7 +13,9 @@ Formulario de renta
 [![5.jpg](https://i.postimg.cc/9M8ckSgr/5.jpg)](https://postimg.cc/zbhmbdrr)
 Completar renta
 [![11.jpg](https://i.postimg.cc/4ygjB1sm/11.jpg)](https://postimg.cc/WF594gDv)
+
 Factura
+
 [![6.jpg](https://i.postimg.cc/tJ4Nq1zB/6.jpg)](https://postimg.cc/wynmFjZN)
 Devolucion de vehiculo rentado 
 [![7.jpg](https://i.postimg.cc/7h5JtS9r/7.jpg)](https://postimg.cc/q6d7zhW1)
